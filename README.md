@@ -1,4 +1,4 @@
-# Hi, I'm scoxty! 👋
+### Hi, I'm scoxty! 👋
 
 Welcome to my GitHub profile!
 
