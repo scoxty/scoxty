@@ -5,7 +5,7 @@ Welcome to my GitHub profile! Here's a bit about me:
 - 🔭 I'm a Computer Science student at Nanchang University.
 - ✨ Currently interning at ByteDance in the International E-commerce
 - 🌱 Passionate about backend development and algorithms.
-- 🏆 Competed in algorithm competitions using C++, always ready for the next challenge.
+- 🏆 Participated in algorithm competitions, always ready for the next challenge.
 
 ---
 
