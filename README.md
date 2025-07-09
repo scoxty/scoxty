@@ -2,10 +2,9 @@
 
 Welcome to my GitHub profile! Here's a bit about me:
 
-- 🔭 I'm a Computer Science student at Nanchang University.
-- ✨ Currently interning at ByteDance in the TikTok Shop.
-- 🌱 Passionate about backend development and algorithms.
-- 🏆 Participated in algorithm competitions, always ready for the next challenge.
+- 🔭 Computer Science graduate from Nanchang University.
+- ✨ Full-time Backend Engineer at ByteDance, working on TikTok Shop.
+- 🌱 Passionate about backend development and algorithms, constantly exploring new tech stacks.
 
 ---
 
